@@ -1,3 +1,10 @@
-Cook-Eat-All: https://cook-eat-all.herokuapp.com/
-Hacked_Konsole: https://hacked-konsole.herokuapp.com/
-Head-Set-Go: https://head-set-go.herokuapp.com/
+Web - 
+  Cook-Eat-All: https://cook-eat-all.herokuapp.com/
+  Hacked_Konsole: https://hacked-konsole.herokuapp.com/
+  Head-Set-Go: https://head-set-go.herokuapp.com/
+
+Crypto - 
+  https://github.com/nerdynerd09/ctf/blob/main/osint.txt
+  
+OSINT + Stegnography - 
+  https://drive.google.com/file/d/198I2-G9YAyy5DgbXMXR-e40buCx7sGSW/view?usp=sharing
